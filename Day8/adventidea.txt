@@ -1,0 +1,51 @@
+2 symbole nur bei der 1
+3 symbole nur bei der 7
+4 symbole nur bei der 4
+5 symbole bei der 2,3 und 5
+6 symbole bei der 0,6 und 9
+7 symbole bei der 8
+
+
+
+
+fgaebd cg bdaec gdafb agbcfd gdcbef bgcad gfac gcb cdgabef | cg cg fdcagb cbg
+
+cg -> 1 also c = c und f = g oder f = c und c = g
+gfac -> 4 also d = f und b = a oder d = a und b = f
+cbg -> 7 also a = b!!!!!!!
+
+da wir wissen dass bei der 6 nur das originelle c fehlt, können wir schlussfolgern, dass die 6 nur die buchstabenkonstellation ist wo entweder nur das c oder nur das g ist.
+
+fgaebd, fgaebd müssen also die 6 sein. Da g vorhanden ist das c jedoch nicht wissen wir dass das symbol oben rechts das c sein muss 
+
+aus der 1 schlussfolgern wir, dass unten rechts das g stehen muss. 
+
+WIR Wissen also: b oben 
+		 c oben rechts
+		 g unten rechts 
+
+die 4 hat f und a ( abweichung von der 1) ->  
+
+also wenn ein zeichen f und a und b c und g hat und nich ein symbol mehr -> muss es die 9 sein -> letztes symbol unten 
+
+-> 		 d unten 
+
+wir wissen,dass cdgabef die 8 ist. Hierraus schlussfolgerbar, da wir wissen, dass da bei der 4 f und a in der mitte ist, 
+bei der 8 also:
+		 e unten links ist!
+
+wenn symbol findne wo bcgde vorkommt und ebenso noch 1 symbol (6 stellig) -> Schlussfolgbar, dass gdcbef (6 symbol) 0 ist -> e
+	
+_> 		f oben links 
+
+letztes symbol a -> Mitte
+	
+		 a mitte 
+
+
+sinvolle reinfolge 1 -> 4 -> 7 -> 6 -> 4
+
+9 bzw 6 haben gleich viele symbole (6) 
+
+wenn wir gucken dass es 6 symbole hat und die symbole c g und b vorkommen dann muss es eine 9 oder 0 sein
+hier
